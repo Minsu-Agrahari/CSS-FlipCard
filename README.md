@@ -45,8 +45,10 @@ Code Explanation 💡
 
 Screenshots 📸
 (Include screenshots of the front and back of the card if possible)
+
 **Front face of the card :-**
 ![Screenshot 2025-02-24 205721](https://github.com/user-attachments/assets/6eaee5fa-4036-4cc3-8114-2eb5c5ec3d11)
+
 **Back face of the card :-**
 ![Screenshot 2025-02-24 205735](https://github.com/user-attachments/assets/eae82432-197a-4b36-a4f5-8b23338a38b5)
 
